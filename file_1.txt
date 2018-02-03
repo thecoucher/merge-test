@@ -1,4 +1,4 @@
 File 1 Line 1 - Master
 File 1 Line 2 - Master
-File 1 Line 3 - Master
+File 1 Line 3 - Master ** changed in master
 File 1 Line 4 - Master ** changed in Beta
